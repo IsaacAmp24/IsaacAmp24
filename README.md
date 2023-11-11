@@ -28,13 +28,22 @@ Estudiante de Ingeniería de Software.
 
 - 💻 **Tecnologías**
 
-  - **[Nombre del Proyecto]** - Breve descripción y tecnologías utilizadas.
-  - **[Nombre del Proyecto]** - Breve descripción y tecnologías utilizadas.
+- **Frontend:**
+
+  - <img src="https://simpleicons.org/icons/html5.svg" alt="html" height="19px" style="color: #DD0031;"> HTML
+  - <img src="https://simpleicons.org/icons/css3.svg" alt="CSS" height="19px" style="color: #DD0031;"> CSS
+  - <img src="https://simpleicons.org/icons/javascript.svg" alt="CSS" height="19px" style="color: #DD0031;"> JavaScript
+  - <img src="https://simpleicons.org/icons/angular.svg" alt="Angular" height="19px" style="color: #DD0031;"> Angular
+  - <img src="https://simpleicons.org/icons/vuedotjs.svg" alt="Vue" height="19px" style="color: #DD0031;"> Vue.js
+
+- **Backend:**
+  - ☕ Java
+  - <img src="https://simpleicons.org/icons/csharp.svg" alt="html" height="19px" style="color: #DD0031;"> C#
+  
 
 - 📬 **Contacto**
 
   - [LinkedIn](https://www.linkedin.com/in/josé-carlos-ampudia-6b7899274/)
-  - [Correo Electrónico](tu@email.com)
 
 ¡Gracias por visitar mi perfil!
 
