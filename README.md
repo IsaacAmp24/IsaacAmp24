@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 -->
 
 
-# [Tu Nombre]
+# Jocais Ampudia
 
-## Desarrollador Senior | [Tecnologías Dominantes]
+## Estudiante de Ingeniería de Software
 
 ¡Hola! Soy [Tu Nombre], un apasionado desarrollador senior con experiencia en [Tecnologías Dominantes]. Mi enfoque principal es [Área de Especialización], y me encanta enfrentar desafíos técnicos y encontrar soluciones innovadoras.
 
