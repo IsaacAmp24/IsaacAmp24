@@ -24,7 +24,7 @@ Estudiante de Ingeniería de Software.
 
 - 📚 **Educación**
 
-  - **Universidad Peruana de Ciencias Aplicadas** - Ingeniería de Software (2021 - 2025)
+  - **[Universidad Peruana de Ciencias Aplicadas](https://www.upc.edu.pe)** - **[Ingeniería de Software (2021 - 2025)](https://pregrado.upc.edu.pe/facultad-de-ingenieria/ingenieria-de-software/)**
 
 - 💻 **Tecnologías**
 
