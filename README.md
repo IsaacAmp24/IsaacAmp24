@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Estudiante de Ingeniería de Software.
+## Estudiante de Ingeniería de Software.
 
 Soy Jocais Ampudia, actualmente soy estudiante de Ingeniería de Software en UPC con un gran interés en desarrollo web, desarrollo de videojuegos y ciberseguridad.
 
