@@ -20,16 +20,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Soy Jocais Ampudia, actualmente soy estudiante de Ingeniería de Software en UPC, con interés en el desarrollo web, desarrollo móvil y ciberseguridad.
+I'm Jocais Ampudia, currently pursuing a degree in Software Engineering at UPC. I have a keen interest in web development, mobile development, and cybersecurity.
 
-- 📚 **Educación**
+- 📚 **Education**
 
   - **[Universidad Peruana de Ciencias Aplicadas](https://www.upc.edu.pe)** - **[Ingeniería de Software (2021 - 2025)](https://pregrado.upc.edu.pe/facultad-de-ingenieria/ingenieria-de-software/)**
 
-- 📬 **Contacto**
+- 📬 **Contact**
 
   - [LinkedIn](https://www.linkedin.com/in/jos%C3%A9-carlos-isaac-ampudia-flores-6b7899274)
 
+- **Skills**
 
 <div>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsaacAmp24&layout=compact&theme=tokyonight" align="left" width="37%">
