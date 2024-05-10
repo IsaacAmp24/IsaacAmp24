@@ -29,6 +29,7 @@ I'm Jocais Ampudia, currently pursuing a degree in Software Engineering at UPC. 
 - 📬 **Contact**
 
   - [LinkedIn](https://www.linkedin.com/in/jos%C3%A9-carlos-isaac-ampudia-flores-6b7899274)
+  - [Gmail](ampudiaflores@gmail.com)
 
 - **Skills**
   - **Frontend** <br><br>
