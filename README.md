@@ -31,7 +31,20 @@ I'm Jocais Ampudia, currently pursuing a degree in Software Engineering at UPC. 
   - [LinkedIn](https://www.linkedin.com/in/jos%C3%A9-carlos-isaac-ampudia-flores-6b7899274)
 
 - **Skills**
+  - Frontend: 
+    - ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+    - ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+    - ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+    - ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+    - ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
+  - Backend:
+    - ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+    - ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+   
+  - Mobile
+    - ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+    
 <div>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsaacAmp24&layout=compact&theme=tokyonight" align="left" width="37%">
   <img src="https://github-readme-stats.vercel.app/api?username=IsaacAmp24&show_icons=true&theme=tokyonight&rank_icon=github" align="left" width="49%">
