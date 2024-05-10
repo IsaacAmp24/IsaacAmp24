@@ -46,6 +46,8 @@ I'm Jocais Ampudia, currently pursuing a degree in Software Engineering at UPC. 
     
   - **Mobile** <br><br>
      ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+
+  - **Statistics**
     
 <div>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsaacAmp24&layout=compact&theme=tokyonight" align="left" width="37%">
