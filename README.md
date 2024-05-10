@@ -23,25 +23,10 @@ Soy Jocais Ampudia, actualmente soy estudiante de Ingeniería de Software en UPC
 
   - **[Universidad Peruana de Ciencias Aplicadas](https://www.upc.edu.pe)** - **[Ingeniería de Software (2021 - 2025)](https://pregrado.upc.edu.pe/facultad-de-ingenieria/ingenieria-de-software/)**
 
-- 💻 **Tecnologías**
-
-- **Frontend:**
-
-  - <img src="https://simpleicons.org/icons/html5.svg" alt="html" height="19px" style="color: #DD0031;"> HTML
-  - <img src="https://simpleicons.org/icons/css3.svg" alt="CSS" height="19px" style="color: #DD0031;"> CSS
-  - <img src="https://simpleicons.org/icons/javascript.svg" alt="CSS" height="19px" style="color: #DD0031;"> JavaScript
-  - <img src="https://simpleicons.org/icons/angular.svg" alt="Angular" height="19px" style="color: #DD0031;"> Angular
-  - <img src="https://simpleicons.org/icons/vuedotjs.svg" alt="Vue" height="19px" style="color: #DD0031;"> Vue.js
-
-- **Backend:**
-  - ☕ Java
-  - <img src="https://simpleicons.org/icons/csharp.svg" alt="html" height="19px" style="color: #DD0031;"> C#
-  
-
 - 📬 **Contacto**
 
   - [LinkedIn](https://www.linkedin.com/in/josé-carlos-ampudia-6b7899274/)
 
-¡Gracias por visitar mi perfil!
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=IsaacAmp24)](https://github.com/IsaacAmp24/github-readme-stats)
 
 
