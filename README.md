@@ -1,4 +1,6 @@
-# Jocais Ampudia
+<div align="center">
+  <h1>Jocais Ampudia</h1>
+</div>
 
 <!--
 **IsaacAmp24/IsaacAmp24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
