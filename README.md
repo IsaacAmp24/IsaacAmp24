@@ -31,4 +31,5 @@ Soy Jocais Ampudia, actualmente soy estudiante de Ingeniería de Software en UPC
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsaacAmp24&layout=compact" align="left" width="35%">
   
 </div>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IsaacAmp24&show_icons=true&theme=transparent)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IsaacAmp24&show_icons=true&theme=transparent&rank_icon=github)
