@@ -28,3 +28,5 @@ Soy Jocais Ampudia, actualmente soy estudiante de Ingeniería de Software en UPC
   - [LinkedIn](https://www.linkedin.com/in/josé-carlos-ampudia-6b7899274/)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IsaacAmp24)](https://github.com/IsaacAmp24/github-readme-stats)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IsaacAmp24&show_icons=true&theme=radical)
