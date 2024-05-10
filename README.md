@@ -30,7 +30,7 @@ I'm Jocais Ampudia, currently pursuing a degree in Software Engineering at UPC. 
 
   - [LinkedIn](https://www.linkedin.com/in/jos%C3%A9-carlos-isaac-ampudia-flores-6b7899274)
 
-- **Skills 💻**
+- 💻 **Skills**
   - **Frontend** <br><br>
      ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
      ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
