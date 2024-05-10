@@ -49,5 +49,5 @@ I'm Jocais Ampudia, currently pursuing a degree in Software Engineering at UPC. 
     
 <div>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsaacAmp24&layout=compact&theme=tokyonight" align="left" width="37%">
-  <img src="https://github-readme-stats.vercel.app/api?username=sadsa&show_icons=true&theme=tokyonight&rank_icon=github" align="left" width="49%">
+  <img src="https://github-readme-stats.vercel.app/api?username=IsaacAmp24&show_icons=true&theme=tokyonight&rank_icon=github" align="left" width="49%">
 </div>
