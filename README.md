@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/b3fef2db-e671-4610-bb84-1d65533dc5fb" width="100">
-  <h1>Jocais Ampudia</h1><img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" width="45">
+  <h1>Jose Ampudia</h1><img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" width="45">
 <br><br>
 
 </div>
@@ -28,7 +28,7 @@ I'm Jocais Ampudia, currently pursuing a degree in Software Engineering at UPC. 
 
 - 📬 **Contact**
 
-  - [LinkedIn](https://www.linkedin.com/in/jos%C3%A9-carlos-isaac-ampudia-flores-6b7899274)
+  - [LinkedIn](linkedin.com/in/jose-ampudia-6b7899274)
 
 - 💻 **Skills**
   - **Frontend** <br><br>
