@@ -24,7 +24,7 @@ I'm Jocais Ampudia, currently pursuing a degree in Software Engineering at UPC. 
 
 - 📚 **Education**
 
-  - **[Universidad Peruana de Ciencias Aplicadas](https://www.upc.edu.pe)** - **[Ingeniería de Software (2021 - 2025)](https://pregrado.upc.edu.pe/facultad-de-ingenieria/ingenieria-de-software/)**
+  - **[Universidad Peruana de Ciencias Aplicadas](https://www.upc.edu.pe)** - **[Ingeniería de Software](https://pregrado.upc.edu.pe/facultad-de-ingenieria/ingenieria-de-software/)**
 
 - 📬 **Contact**
 
